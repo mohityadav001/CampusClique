@@ -28,20 +28,23 @@
         "Bye",
          "See you later", 
          "Goodbye",
-         "Get Lost"
+         "Get Lost",
+         "Adios"
         ],
       "responses": [
         "See you later, thanks for visiting",
         "Have a nice day",
         "Bye! Come back again soon.",
         "see you soon",
-        "i hope we will meet again soon"
+        "i hope we will meet again soon",
+        "Adios",
+        "see you later, take care"
       ]
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful","Awesome, thanks", "Thank's a lot!","thanks for helping"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure", "mention not","i am grateful to help you"]
+      "patterns": ["Thanks", "Thank you", "That's helpful","Awesome, thanks", "Thank's a lot!","thanks for helping","Thank you so much","Many Thanks"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure", "mention not","i am grateful to help you","No problem","you're welcome"]
     },
     {
       "tag": "noanswer",
@@ -56,10 +59,12 @@
       "tag": "Identity",
           "patterns": [
               "Who are you",
-              "what are you"
+              "what are you",
+              "Tell me about yourself",
+              "YOU?"
           ],
           "responses": [
-              "I am Collegebud, a helpful friend"
+              "I am CampusClique, a helpful friend","CampusClique an AI chat bot specifically programed for college students."
           ]
     },
     {
@@ -69,7 +74,7 @@
           "what is the date",
           "date",
           "time",
-          "tell me the date","day","what day is is today"
+          "tell me the date","day","what day is it today"
       ],
       "responses": [
           "Date and Time"
@@ -84,7 +89,8 @@
         "sup","How you doing"
     ],
     "responses": [
-        "All good..What about you?"
+        "All good..What about you?",
+        "I am fine, what about you?","Great, thanks for asking"
     ]
 },
     
@@ -109,7 +115,7 @@
         "who programmed you"
     ],
     "responses": [
-        "I was made by Ajay Babu Patel, Kanhaiya Kumar, Mohammed Aasim and Tanmay Umredkar."
+        "I was programed by Mohit Yadav"
     ]
 },
 {
@@ -119,7 +125,8 @@
       "what are you upto"
   ],
   "responses": [
-      "Talking to you, of course!"
+      "Talking to you, of course!",
+      "Nothing, just chilling"
   ]
 },
 {
@@ -129,7 +136,7 @@
     "good talk"
 ],
 "responses": [
-    "It was nice talking to you as well! Come back soon!"
+    "It was nice talking to you as well! Come back soon!","nice talk indeed"
 ]
 },
 {
@@ -141,7 +148,7 @@
     " i'm fine","good"
 ],
 "responses": [
-    "Good to know!"
+    "Good to know!","thats cool","Great"
 ]
 },
         
@@ -312,7 +319,7 @@
         "fees per semester"
       ],
       "responses":[
-        "fees per semester is 1,35,000 rupees",
+        "fees per semester is 1,35,000 rupees but it increase every year as per the college norms",
         "1,35,000 rupees"
       ]
 
@@ -381,7 +388,7 @@
         "mess fees per semester"
       ],
       "responses":[
-        "mess fees is 20,000 per semester",
+        "mess fees is 20,000 per semester but it increase as per the institute norms",
         "20,000 per semester"
       ]
     }                                                     
