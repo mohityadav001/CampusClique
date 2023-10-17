@@ -332,7 +332,7 @@
         "Does college provide any facility"
       ],
       "responses":[
-        "college provides us many facility like we have gym,football court,basketball court,cricket ground etc."
+        "college provides us many facility like we have gym, football ground, basketball court, cricket ground, volleyball court etc."
       ]
     },
 
@@ -344,8 +344,8 @@
         "how many hostels are there"
       ],
       "responses":[
-        "there are 2 in-campus blocks and 3 blocks out of the campus ",
-        "we have BH1,BH2,MMB,B3"
+        "there are 4 in-campus blocks and 3 blocks out of the campus ",
+        "we have BH1,BH2,BH3,BH4,MMB,B3,A1"
       ]  
     },
     {
@@ -355,7 +355,7 @@
         "mess timing"
       ],
       "responses":[
-        "for breakfast(7:30am to 9:30am),lunch(12:30pm to 2:00pm),snacks(5:00pm to 6:00pm),dinner(7:30pm to 9:00pm) "
+        "for breakfast(7:30am to 9:30am),lunch(12:30pm to 2:00pm),snacks(5:30pm to 6:30pm),dinner(7:30pm to 9:00pm) "
       ]
     },
     {
@@ -378,17 +378,19 @@
       ],
       "responses":[
         "hostel fees is 20,000 per semester",
-        "20,000 per semester"
+        "20,000 per semester",
+        "hostel fees is 20,000 per semester but it changes as per the institute norms"
       ]
     },
     {
       "tag":"mess-fees",
       "patterns":[
         "what is the mess fees per semester",
-        "mess fees per semester"
+        "mess fees per semester",
+        "mess fee"
       ],
       "responses":[
-        "mess fees is 20,000 per semester but it increase as per the institute norms",
+        "mess fees is 20,000 per semester but it changes as per the institute norms",
         "20,000 per semester"
       ]
     }                                                     
