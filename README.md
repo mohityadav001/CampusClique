@@ -11,6 +11,3 @@ Welcome to the CampusClique. This NLP-based AI chatbot is designed to assist col
 ## Acknowledgments
 - Natural Language Toolkit(NLTK) is used to build the chat-bot.
 - Framework used is  PyTorch.
-
-## Contact
-Feel free to contact me at: https://www.linkedin.com/in/mohit-yadav-2021/
